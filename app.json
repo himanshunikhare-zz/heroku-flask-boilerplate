@@ -1,0 +1,7 @@
+{
+    "name": "heroku-flask-boilerplate",
+    "description": "A barebones flask api to be hosted on heroku",
+    "repository": "https://github.com/himanshunikhare/heroku-flask-boilerplate.git",
+    "logo": "https://avatars3.githubusercontent.com/u/31133894?s=460&u=fbf5c543da4f97df2f21b9c5252ff0b081a212c3&v=4",
+    "keywords": ["heroku", "flask", "api"]
+  }
